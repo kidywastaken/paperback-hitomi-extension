@@ -14,15 +14,16 @@
   "dependencies": {
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
-    "typescript": "^3.9.7"
+    "paperback-extensions-common": "^5.0.0-alpha.7"
   },
   "devDependencies": {
-    "@types/cheerio": "^0.22.21",
+    "@types/cheerio": "^0.22.35",
+    "@types/entities": "^1.1.1",
     "@types/mocha": "^8.2.2",
     "chai": "^4.3.4",
     "chai-as-promised": "^7.1.1",
     "mocha": "^7.2.0",
     "ts-mocha": "^8.0.0",
-    "typedoc": "^0.20.34"
+    "typescript": "^5.2.2"
   }
 }
