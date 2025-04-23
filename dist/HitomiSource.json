@@ -1,0 +1,7 @@
+{
+    "name": "Hitomi.la",
+    "version": "1.0.0",
+    "author": "Evan",
+    "description": "Basic test extension for hitomi.la",
+    "bundleURL": "https://raw.githubusercontent.com/kidywastaken/paperback-hitomi-extension/main/dist/HitomiSource.js"
+  }
